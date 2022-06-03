@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**IsacHolstad/IsacHolstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Isac Holstad. 20 yearold Frontend student at Noroff
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: wisac22@gmail.com
 - ⚡ Fun fact: i love to work with API data
--->
+
