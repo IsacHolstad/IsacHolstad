@@ -5,4 +5,5 @@ I am Isac Holstad. 20 yearold Frontend student at Noroff
 - 📫 How to reach me: wisac22@gmail.com
 
 
-![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FIsacholstad7)
+![Isac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsacHolstad&show_icons=true&theme=radical)
+
